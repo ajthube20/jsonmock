@@ -1,0 +1,14 @@
+{
+"language": [
+    { "id": 1,"language": "Hindi" },
+    {"id": 2,"language": "Urdu"},
+    {"id": 3,"language": "Engilsh"},
+    {"id": 4, "language": "Tamil"}
+  ],
+  "programer": [
+    { "id": 1, "firstName": "Ravi","country": "IND","age": 30},
+    {"firstName": "Mohan","country": "India","age": "-26","id": 2},
+    {"firstName": "Lokesh ", "country": "India","age": "35","id": 3}
+  ]
+  
+}
